@@ -1,0 +1,183 @@
+ Afghan	#Afghanistan
+Albanian	#Albania
+Algerian	#Algeria
+American	#United States of America
+Andorran	#Andorra
+Angolan	#Angola
+Argentinian	#Argentina
+Armenian	#Armenia
+Australian	#Australia
+Austrian	#Austria
+Azerbaijani	#Azerbaijan
+Bahamian	#Bahamas
+Bahraini	#Bahrain
+Bangladeshi	#Bangladesh
+Barbadian	#Barbados
+Belorussian&Byelorussian	#Belarus
+Belgian	#Belgium
+Belizian	#Belize
+Beninese	#Benin
+Bhutanese	#Bhutan
+Bolivian	#Bolivia
+Bosnian	#Bosnia-Herzegovina
+Tswana	#Botswana
+Brazilian	#Brazil
+Briton	#Britain
+Bruneian	#Brunei
+Bulgarian	#Bulgaria
+Burkinese	#Burkina
+Burmese	#Burma
+Burundian	#Burundi
+Cambodian	#Cambodia
+Cameroonian	#Cameroon
+Canadian	#Canada
+Cape Verdean	#Cape Verde Islands
+Chadian	#Chad
+Chilean	#Chile
+Chinese	#China
+Colombian	#Colombia
+Congolese	#Congo
+Costa Rican	#Costa Rica
+Croat & Croatian	#Croatia
+Cuban	#Cuba
+Cypriot	#Cyprus
+Czech	#Czech Republic
+Dane	#Denmark
+Djiboutian	#Djibouti
+Dominican	#Dominica
+Dominican	#Dominican Republic
+Ecuadorean	#Ecuador
+Egyptian	#Egypt
+Salvadorean	#El Salvador
+Englishman & Englishwoman	#England
+Eritrean	#Eritrea
+Estonian	#Estonia
+Ethiopian	#Ethiopia
+Fijian	#Fiji
+Finn	#Finland
+Frenchman & Frenchwoman	#France
+Gabonese	#Gabon
+Gambian	#Gambia
+Georgian	#Georgia
+German	#Germany
+Ghanaian	#Ghana
+Greek	#Greece
+Grenadian	#Grenada
+Guatemalan	#Guatemala
+Guinean	#Guinea
+Guyanese	#Guyana
+Haitian	#Haiti
+Dutchman & Dutchwoman	#Holland
+Honduran	#Honduras
+Hungarian	#Hungary
+Icelander	#Iceland
+Indian	#India
+Indonesian	#Indonesia
+Iranian	#Iran
+Iraqi	#Iraq
+Irishman & Irishwoman	#Ireland
+Israeli	#Israel
+Italian	#Italy
+Jamaican	#Jamaica
+Japanese	#Japan
+Jordanian	#Jordan
+Kazakh	#Kazakhstan
+Kenyan	#Kenya
+Korean 	#Korea
+Kuwaiti	#Kuwait
+Laotian	#Laos
+Latvian	#Latvia
+Lebanese	#Lebanon
+Liberian	#Liberia
+Libyan	#Libya
+Liechtensteiner	#Liechtenstein
+Lithuanian	#Lithuania
+Luxembourger	#Luxembourg
+Macedonian	#Macedonia
+Malagasay & Madagascan	#Madagascar
+Malawian	#Malawi
+Malaysian	#Malaysia
+Maldivian	#Maldives
+Malian	#Mali
+Maltese	#Malta
+Mauritanian	#Mauritania
+Mauritian	#Mauritius
+Mexican	#Mexico
+Moldovan	#Moldova
+Monégasque & Monacan	#Monaco
+Mongolian	#Mongolia
+Montenegrin	#Montenegro
+Moroccan	#Morocco
+Mozambican	#Mozambique
+Myanmar	#Burmese
+Namibian	#Namibia
+Nepalese	#Nepal
+Dutchman & Dutchwoman & Netherlander	#Netherlands
+New Zealander	#New Zealand
+Nicaraguan	#Nicaragua
+Nigerien	#Niger
+Nigerian	#Nigeria
+North Korean	#North Korea
+Norwegian	#Norway
+Omani	#Oman
+Pakistani	#Pakistan
+Panamanian	#Panama
+Papua New Guinean & Guinean	#Papua New Guinea
+Paraguayan	#Paraguay
+Peruvian	#Peru
+Filipino	#the Philippines
+Pole	#Poland
+Portuguese	#Portugal
+Qatari	#Qatar
+Romanian	#Romania
+Russian	#Russia
+Rwandan	#Rwanda
+Saudi Arabian & Saudi	#Saudi Arabia
+Scot	#Scotland
+Senegalese	#Senegal
+Serb & Serbian	#Serbia
+Seychellois	#Seychelles
+Sierra Leonian	#Sierra Leone
+Singaporean	#Singapore
+Slovak	#Slovakia
+Slovene & Slovenian	#Slovenia
+Solomon Islander	#Solomon Islands
+Somali	#Somalia
+South African	#South Africa
+South Korean	#South Korea
+Spaniard	#Spain
+Sri Lankan	#Sri Lanka
+Sudanese	#Sudan
+Surinamer & Surinamese	#Suriname
+Swazi	#Swaziland
+Swede	#Sweden
+Swiss	#Switzerland
+Syrian	#Syria
+Taiwanese	#Taiwan
+Tajik & Tadjik	#Tajikistan
+Tanzanian	#Tanzania
+Thai	#Thailand
+Togolese	#Togo
+Trinidadian	#Trinidad
+Tobagan & Tobagonian	#Tobago
+Tunisian	#Tunisia
+Turk	#Turkey
+Turkmen & Turkoman	#Turkmenistan
+Tuvaluan	#Tuvali
+Ugandan	#Uganda
+Ukrainian	#Ukraine
+Emirati	#United Arab Emirates
+Briton	#United Kingdom
+US citizen	#United States of America
+Uruguayan	#Uruguay
+Uzbek	#Uzbekistan
+Vanuatuan	#Vanuata
+Venezuelan	#Venezuela
+Vietnamese	#Vietnam
+Welshman & Welshwoman	#Wales
+Western Samoan	#Western Samoa
+Yemeni	#Yemen
+Yugoslav	#Yugoslavia
+Zairean	#Zaire
+Zambian	#Zambia
+Zimbabwean	#Zimbabwe
